@@ -7,4 +7,4 @@ Console chat written in Python with manual socket management
 
 Tested on Windows using WSL
 
-Никита Шепшук 853054
+Никита Шепшук 853504
